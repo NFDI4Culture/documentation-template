@@ -1,0 +1,12 @@
+{
+    "projectName": "<Project-Name>",
+
+    "contactUrl": "https://service.tib.eu/<Project-Application>/contact",
+    "repoUrl": "https://gitlab.com/nfdi4culture/<Task-Area>/<Project-Documentation>",
+    "appUrl": "https://service.tib.eu/<Project-Application>",
+    "appUrlGitLab": "https://gitlab.com/nfdi4culture/<Task-Area>/<Project-Application>",
+    "appUrlGitHub": "https://github.com/TIBHannover/<Project-Application-Mirror>",
+
+    "deploySite": "https://nfdi4culture.github.io",
+    "deployBase": "/documentation-template"
+}
